@@ -26,7 +26,7 @@
 
 1. 서버를 시작합니다:
    ```bash
-   node app.js
+   node server.js
    ```
 
 2. 웹 브라우저를 열고 아래 URL로 이동합니다:
