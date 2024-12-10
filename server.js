@@ -43,7 +43,7 @@ async function getItemList() {
     /**
      * 타겟 페이지 분석에서 상품 정보가 들어있는 통신을 확인했습니다.
      * Ajax로 요청해서 상품 정보 Object를 받아옵니다.
-     * Object에서 상품명, 상품 Url, 이미지 Url을 Object형태로 List에 저장해서 반환합니다.
+     * 상품 정보 Object에서 상품명, 상품 Url, 이미지 Url, 가격을 Object형태로 List에 저장해서 반환합니다.
      * 
      * 페이징 처리도 요청하셨기 떄문에 페이지를 반복문으로 호출해서 상품정보가 더이상 나오지 않을 때 break해서 상품정보 List를 return하는 방식으로 만들었습니다.
      */
