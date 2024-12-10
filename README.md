@@ -1,5 +1,5 @@
 
-# Yves Saint Laurent 상품 데이터 엑셀 파일 생성 서비스
+# Yves Saint Laurent 상품 데이터 엑셀 파일 생성
 
 이 프로젝트는 Yves Saint Laurent의 API에서 상품 데이터를 가져와 엑셀 파일로 변환 후 다운로드할 수 있는 간단한 Node.js 애플리케이션입니다. 사용자는 애플리케이션의 GET 요청을 통해 생성된 엑셀 파일을 받을 수 있습니다.
 
