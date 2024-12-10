@@ -82,6 +82,7 @@ async function getItemList() {
                 obj.name = productList[idx].name;
                 obj.image = productList[idx].image.src;
                 obj.url = "https://www.ysl.com" + productList[idx].url;
+                obj.price = productList[idx].price.finalPrice;
     
                 itemList.push(obj);
             }
