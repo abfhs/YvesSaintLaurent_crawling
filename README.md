@@ -10,7 +10,7 @@
 
 1. **프로젝트 클론**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/abfhs/YvesSaintLaurent_crawling.git
    cd <repository_folder>
    ```
 
